@@ -10,7 +10,7 @@ class Connexion extends Component {
             placeholder="Pseudo"
             type="text"
             required />
-          <button type='submit'>GO !</button>
+          <button type='submit'>Tchattons !</button>
         </form>
       </div>
       )
